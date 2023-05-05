@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A passionate AI engineer from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhstar&label=Profile%20views&color=0e75b6&style=flat" alt="thanhstar" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="thanhstar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="" /></a> </p>
 
