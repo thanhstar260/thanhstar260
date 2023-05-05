@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="thanhstar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="" /></a> </p>
 
 - 🔭 I’m currently studying at *University Of Information Technology*
 
