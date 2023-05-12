@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="thanhstar" /> </p>
 
 
-- 🔭 I’m currently studying at *University Of Information Technology*
+- 🔭 I’m currently studying at *University of Information Technology*
 
 - 🌱 I’m currently learning *Computer Vision, NLP and Data Science*
 
